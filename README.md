@@ -1,2 +1,0 @@
-# cute-dogs
-testing git
