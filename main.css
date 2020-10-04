@@ -1,0 +1,29 @@
+body{
+	background: lightblue;
+}
+
+h1{
+	color: Gold;
+	font-size: 65px;
+	font-style: oblique;
+	font-variant: small-caps;
+
+}
+
+h2{
+	font-size: 50px;
+	font-style: oblique;
+	font-variant: small-caps;
+}
+
+h3{
+	color: red;
+	font-size: 35px;
+	font-style: oblique;
+	font-variant: small-caps;
+}
+
+p{
+	color: grey;
+	font-size: 20px;
+}
